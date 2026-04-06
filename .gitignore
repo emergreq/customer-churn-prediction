@@ -1,0 +1,21 @@
+# Данные
+data/*.csv
+data/*.parquet
+
+# Модели
+models/*.pkl
+models/*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+
+# IDE
+.vscode/
+.idea/
