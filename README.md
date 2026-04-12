@@ -9,7 +9,7 @@
 ![Contract Churn](images/contract_churn.png)
 
 ### Распределение срока обслуживания
-![Tenure Distribution](images/tenure_violin.png)
+![Tenure Distribution](images/tenure_distribution.png)
 
 ### Корреляции признаков
-![Correlations](images/correlations.png)
+![Correlations](images/correlation_with_churn.png)
