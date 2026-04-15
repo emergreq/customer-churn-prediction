@@ -1,6 +1,7 @@
 # Данные
-data/*.csv
-data/*.parquet
+*.csv
+*.parquet
+*.npy
 
 # Модели
 models/*.pkl
